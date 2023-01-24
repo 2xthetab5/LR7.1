@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (лаба 2.2.vcxproj, лаба 4.1.vcxproj, лаба 5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Record.cpp
+  mini_Record.cpp
+  transformer.cpp
+C:\Users\bater\Desktop\Прога\лаба 6\лаба 2.2\melee.h(20,40): warning C4042: mc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 6\лаба 2.2\weapon.h(23,41): warning C4042: wc: имеет недопустимый класс хранения
+  лаба 5.cpp
+C:\Users\bater\Desktop\Прога\лаба 6\лаба 2.2\melee.h(20,40): warning C4042: mc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 6\лаба 2.2\weapon.h(23,41): warning C4042: wc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 6\лаба 2.2\лаба 5.cpp(176,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\bater\Desktop\Прога\лаба 6\лаба 2.2\лаба 5.cpp(36,6): warning C4101: c: неиспользованная локальная переменная
+C:\Users\bater\Desktop\Прога\лаба 6\лаба 2.2\лаба 5.cpp(68,22): warning C4101: s: неиспользованная локальная переменная
+  Создание кода...
+  лаба 2.2.vcxproj -> C:\Users\bater\Desktop\Прога\лаба 6\x64\Debug\лаба 6.exe
